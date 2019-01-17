@@ -2,6 +2,11 @@
 
 Hier wollen wir zusammen einen Code-of-Conduct schreiben.
 
+# Status
+
+Wir haben gemeinsam ein Skelett angelegt. Dies stellt ein Anfang dar
+und wird jetzt Schritt für Schritt vervollständigt.
+
 # Änderungen
 
 Änderungen am Code of Conduct funktionieren mittels einen Pull-Requests und benötigen 3(!) Reviewer
