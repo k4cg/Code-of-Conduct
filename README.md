@@ -11,4 +11,5 @@ Hier wollen wir zusammen einen Code-of-Conduct schreiben.
 * https://acmelabs.space/coc.html
 * https://metalab.at/wiki/Code_of_Conduct
 * https://berlincodeofconduct.org/de/
+* https://www.socrates-conference.de/values
 
