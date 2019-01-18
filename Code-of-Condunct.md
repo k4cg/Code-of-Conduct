@@ -7,7 +7,9 @@
 
 # Sichere Umgebung 
 
-# Verhalten bei Verstöße
+# Verhalten bei Verstößen
+* Weise die Person klar, deutlich und in direktem zeitlichen Zusammenhang darauf hin und bitte sie darum damit aufzuhören.
+* Sollte sich der Konflikt nicht im direkten Miteinander lösen lassen, wende Dich an unsere Anlaufstelle (siehe [Hilfe finden](#Hilfe finden))
 
 # Nicht akzeptables Verhalten
 
