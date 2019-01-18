@@ -12,7 +12,7 @@
 * Aufzeichnungen jeglicher Art sind in der K4CG nur mit Einwilligung 
   aller aufgezeichneten Personen gestattet.
 
-# Verhalten bei Verstöße
+# Verhalten bei Verstößen
 
 # Hilfe finden
 
