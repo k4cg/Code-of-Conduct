@@ -7,6 +7,8 @@
 
 # Erwünschtes Verhalten
 
+* Sei vorsichtig mit Witzen, die andere verletzen könnten.
+
 # Nicht akzeptables Verhalten
 
 * Aufzeichnungen jeglicher Art sind in der K4CG nur mit Einwilligung 
