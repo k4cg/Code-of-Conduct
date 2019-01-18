@@ -7,6 +7,10 @@
 
 # Erwünschtes Verhalten
 
+* Pflege jederzeit einen respektvollen Umgang mit anderen. Frustration 
+  oder Uneinigkeit in einer Unterhaltung darf nicht zur Diskriminierung 
+  anderer führen.
+
 # Nicht akzeptables Verhalten
 
 * Aufzeichnungen jeglicher Art sind in der K4CG nur mit Einwilligung 
