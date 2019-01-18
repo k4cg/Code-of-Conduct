@@ -7,6 +7,8 @@
 
 # Erwünschtes Verhalten
 
+* [Heiße andere Willkommen](https://k4cg.org/index.php/Neue_Menschen_Willkommen_hei%C3%9Fen) und binde sie ein.
+
 # Nicht akzeptables Verhalten
 
 * Aufzeichnungen jeglicher Art sind in der K4CG nur mit Einwilligung 
