@@ -7,6 +7,8 @@
 
 # Erwünschtes Verhalten
 
+* Sei freundlich, geduldig und höre zu.
+
 # Nicht akzeptables Verhalten
 
 * Aufzeichnungen jeglicher Art sind in der K4CG nur mit Einwilligung 
