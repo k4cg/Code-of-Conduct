@@ -14,11 +14,6 @@
 * Aufzeichnungen jeglicher Art sind in der K4CG nur mit Einwilligung 
   aller aufgezeichneten Personen gestattet.
 
-* Verletzende Bemerkungen in Bezug auf Geschlecht, Geschlechtsidentität, 
-  sexuelle Orientierung, Behinderungen, psychische Erkrankungen, 
-  Neuro(a)typizität, äußere Erscheinung, Körperbau, Alter, Hautfarbe, 
-  ethnische Zugehörigkeit oder Religion.
-
 # Hilfe finden
 
 Die K4CG hat eine Anlaufstelle, die alle gemeldeten Vorfälle ernst nimmt,
