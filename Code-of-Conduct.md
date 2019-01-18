@@ -7,6 +7,10 @@
 
 # Erwünschtes Verhalten
 
+* Behandle alle professionell. Frage, bevor du andere belehrst. Erkläre nichts 
+  ohne gefragt zu werden. Die Person mit der du sprichst weiß vielleicht mehr 
+  oder andere Dinge über das Thema als du!
+
 # Nicht akzeptables Verhalten
 
 * Aufzeichnungen jeglicher Art sind in der K4CG nur mit Einwilligung 
