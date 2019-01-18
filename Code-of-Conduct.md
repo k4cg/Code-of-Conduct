@@ -5,14 +5,14 @@
 
 # Warum haben wir einen Code of Conduct
 
-# Sichere Umgebung 
-
-# Verhalten bei Verstöße
+# Erwünschtes Verhalten
 
 # Nicht akzeptables Verhalten
 
 * Aufzeichnungen jeglicher Art sind in der K4CG nur mit Einwilligung 
   aller aufgezeichneten Personen gestattet.
+
+# Verhalten bei Verstöße
 
 # Hilfe finden
 
