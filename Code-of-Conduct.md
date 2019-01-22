@@ -7,7 +7,7 @@
 
 # Erwünschtes Verhalten
 
-* [Heiße andere Willkommen](https://k4cg.org/index.php/Neue_Menschen_Willkommen_hei%C3%9Fen) und binde sie ein.
+* [Heiße andere willkommen](https://k4cg.org/index.php/Neue_Menschen_willkommen_hei%C3%9Fen) und binde sie ein.
 
 # Nicht akzeptables Verhalten
 
