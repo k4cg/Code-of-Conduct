@@ -7,6 +7,9 @@
 
 # Erwünschtes Verhalten
 
+* Behandle alle professionell. Frage, bevor du andere belehrst. Erkläre nichts 
+  ohne gefragt zu werden. Die Person mit der du sprichst weiß vielleicht mehr 
+  oder andere Dinge über das Thema als du!
 * Sei freundlich, geduldig und höre zu.
 * Pflege jederzeit einen respektvollen Umgang mit anderen. Frustration 
   oder Uneinigkeit in einer Unterhaltung darf nicht zur Diskriminierung 
