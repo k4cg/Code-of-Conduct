@@ -7,6 +7,7 @@
 
 # Erwünschtes Verhalten
 
+* Sei freundlich, geduldig und höre zu.
 * Pflege jederzeit einen respektvollen Umgang mit anderen. Frustration 
   oder Uneinigkeit in einer Unterhaltung darf nicht zur Diskriminierung 
   anderer führen.
