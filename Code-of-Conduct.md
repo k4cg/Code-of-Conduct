@@ -16,7 +16,7 @@
   
 * Verletzende Bemerkungen in Bezug auf Geschlecht, Geschlechtsidentität, 
   sexuelle Orientierung, Behinderungen, psychische Erkrankungen, 
-  Neuro(a)typizität, äußere Erscheinung, Körperbau, Alter, Hautfarbe, 
+  äußere Erscheinung, Körperbau, Alter, Hautfarbe, 
   ethnische Zugehörigkeit oder Religion.
 
 # Hilfe finden
