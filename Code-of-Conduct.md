@@ -5,16 +5,19 @@
 
 # Warum haben wir einen Code of Conduct
 
-# Sichere Umgebung 
-
-# Verhalten bei Verstößen
-* Weise die Person klar, deutlich und in direktem zeitlichen Zusammenhang darauf hin und bitte sie darum damit aufzuhören.
-* Sollte sich der Konflikt nicht im direkten Miteinander lösen lassen, wende Dich an unsere Anlaufstelle (siehe [Hilfe finden](#Hilfe finden))
+# Erwünschtes Verhalten
 
 # Nicht akzeptables Verhalten
 
-* Aufzeichnungen jeglicher Art sind in der K4CG nur mit Einwilligung 
-aller aufgezeichneten Personen gestattet.
+* Aufzeichnungen jeglicher Art sind in der K4CG nur mit Einwilligung
+  aller aufgezeichneten Personen gestattet.
+
+# Verhalten bei Verstößen
+
+* Weise die Person klar, deutlich und in direktem zeitlichen Zusammenhang
+  darauf hin und bitte sie darum damit aufzuhören.
+* Sollte sich der Konflikt nicht im direkten Miteinander lösen lassen, wende
+  Dich an unsere Anlaufstelle (siehe [Hilfe finden](#Hilfe finden))
 
 # Hilfe finden
 
