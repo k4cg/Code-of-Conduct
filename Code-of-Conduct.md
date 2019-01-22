@@ -7,6 +7,9 @@
 
 # Erwünschtes Verhalten
 
+* Pflege jederzeit einen respektvollen Umgang mit anderen. Frustration 
+  oder Uneinigkeit in einer Unterhaltung darf nicht zur Diskriminierung 
+  anderer führen.
 * Sei vorsichtig mit Witzen, die andere verletzen könnten.
 
 # Nicht akzeptables Verhalten
