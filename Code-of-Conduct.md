@@ -7,6 +7,7 @@
 
 # Erwünschtes Verhalten
 
+* [Heiße andere willkommen](https://k4cg.org/index.php/Neue_Menschen_willkommen_hei%C3%9Fen) und binde sie ein.
 * Behandle alle professionell. Frage, bevor du andere belehrst. Erkläre nichts 
   ohne gefragt zu werden. Die Person mit der du sprichst weiß vielleicht mehr 
   oder andere Dinge über das Thema als du!
