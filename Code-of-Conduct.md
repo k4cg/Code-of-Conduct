@@ -38,7 +38,7 @@
 
 Die K4CG hat eine Anlaufstelle, die alle gemeldeten Vorfälle ernst nimmt,
 diese vertraulich behandelt und sich solidarisch mit Betroffenen verhält.
-Du kannst dich jederzeit an sie wenden.
+Du kannst dich jederzeit an sie wenden. Die E-Mail Adresse ist coc@k4cg.org.
 
 # Credits
 
