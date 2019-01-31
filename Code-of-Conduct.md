@@ -43,5 +43,3 @@ Du kannst dich jederzeit an sie wenden.
 # Credits
 
 * [Socrates Conference](https://www.socrates-conference.de/values)
-
-# Fragen?
