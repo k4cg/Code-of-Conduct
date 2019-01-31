@@ -1,7 +1,11 @@
-# Code of Conduct
+# Code of Conduct - TL;DR
+
+Im Grunde gelten 2 einfache Regeln. 
 
 * All creatures welcome!
 * Be excellent to each other!
+
+Weitere Details bitte dem Nachfolgenden entnehmen.
 
 # Warum haben wir einen Code of Conduct
 
