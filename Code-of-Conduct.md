@@ -10,7 +10,7 @@ Raum für alle Menschen zu schaffen. Wir tolerieren in keiner Weise
 die Belästigung oder Diskriminierung. 
 
 Dieser Code of Conduct gilt für alle Räume der K4CG also für 
-die physischen, aber auch Online-Präsenzen wie Mailinglisten, IRC Wiki.
+die physischen, aber auch Online-Präsenzen wie Mailinglisten, IRC und Wiki.
 
 # Erwünschtes Verhalten
 
