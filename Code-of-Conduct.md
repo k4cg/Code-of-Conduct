@@ -47,5 +47,3 @@ Du kannst dich jederzeit an sie wenden. Die E-Mail Adresse ist coc@k4cg.org.
 # Credits
 
 * [Socrates Conference](https://www.socrates-conference.de/values)
-
-# Fragen?
