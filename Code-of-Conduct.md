@@ -9,7 +9,7 @@ Weitere Details bitte dem Nachfolgenden entnehmen.
 
 # Warum haben wir einen Code of Conduct
 
-Die K4CG hat es sich zum Ziel gemacht, einen diskriminierungsfreien 
+Die K4CG hat es sich zum Ziel gemacht einen diskriminierungsfreien 
 Raum für alle Menschen zu schaffen. Wir tolerieren in keiner Weise
 Belästigung oder Diskriminierung. 
 
@@ -36,18 +36,18 @@ die physischen, aber auch Online-Präsenzen wie Mailinglisten, IRC und Wiki.
 * Verletzende Bemerkungen in Bezug auf Geschlecht, Geschlechtsidentität,
   sexuelle Orientierung, Behinderungen, psychische Erkrankungen,
   äußere Erscheinung, Körperbau, Alter, Hautfarbe,
-  ethnische Zugehörigkeit oder Religion.
+  ethnische Zugehörigkeit oder Religion werden nicht toleriert.
 
 # Verhalten bei Verstößen
 
 * Weise die Person klar, deutlich und in direktem zeitlichen Zusammenhang
   darauf hin und bitte sie darum damit aufzuhören.
-* Sollte sich der Konflikt nicht im direkten Miteinander lösen lassen, wende
+* Sollte sich der Konflikt nicht im direkten Miteinander lösen lassen wende
   Dich an unsere Anlaufstelle (siehe [Hilfe finden](#hilfe-finden))
 
 # Hilfe finden
 
-Die K4CG hat eine Anlaufstelle, die alle gemeldeten Vorfälle ernst nimmt,
+Die K4CG hat eine Anlaufstelle die alle gemeldeten Vorfälle ernst nimmt,
 diese vertraulich behandelt und sich solidarisch mit Betroffenen verhält.
 Du kannst dich jederzeit an sie wenden. Die E-Mail Adresse ist coc@k4cg.org.
 
