@@ -9,6 +9,13 @@ Weitere Details bitte dem Nachfolgenden entnehmen.
 
 # Warum haben wir einen Code of Conduct
 
+Die K4CG hat es sich zum Ziel gemacht, einen diskriminierungsfreien 
+Raum für alle Menschen zu schaffen. Wir tolerieren in keiner Weise
+Belästigung oder Diskriminierung. 
+
+Dieser Code of Conduct gilt für alle Räume der K4CG also für 
+die physischen, aber auch Online-Präsenzen wie Mailinglisten, IRC und Wiki.
+
 # Erwünschtes Verhalten
 
 * [Heiße andere willkommen](https://k4cg.org/index.php/Neue_Menschen_willkommen_hei%C3%9Fen) und binde sie ein.
