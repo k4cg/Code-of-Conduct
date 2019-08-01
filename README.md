@@ -4,8 +4,8 @@ Hier wollen wir zusammen einen Code-of-Conduct schreiben.
 
 # Status
 
-Wir haben gemeinsam ein Skelett angelegt. Dies stellt ein Anfang dar
-und wird jetzt Schritt für Schritt vervollständigt.
+Der Code of Conduct ist in einem anwendbaren Zustand. 
+Änderungen daran können jederzeit via Pullrequest angewendet werden. 
 
 # Änderungen
 
