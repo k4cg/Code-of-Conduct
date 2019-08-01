@@ -1,11 +1,9 @@
 # Code of Conduct - TL;DR
 
-Im Grunde gelten 2 einfache Regeln. 
+Im Grunde gelten 2 einfache Regeln:
 
 * All creatures welcome!
 * Be excellent to each other!
-
-Weitere Details bitte dem Nachfolgenden entnehmen.
 
 # Warum haben wir einen Code of Conduct
 
@@ -19,7 +17,7 @@ die physischen, aber auch Online-Präsenzen wie Mailinglisten, IRC und Wiki.
 # Erwünschtes Verhalten
 
 * [Heiße andere willkommen](https://k4cg.org/index.php/Neue_Menschen_willkommen_hei%C3%9Fen) und binde sie ein.
-* Behandle alle professionell. Frage, bevor du andere belehrst. Erkläre nichts
+* Behandle alle professionell. Frage bevor du andere belehrst. Erkläre nichts
   ohne gefragt zu werden. Die Person mit der du sprichst weiß vielleicht mehr
   oder andere Dinge über das Thema als du!
 * Sei freundlich, geduldig und höre zu.
@@ -30,13 +28,12 @@ die physischen, aber auch Online-Präsenzen wie Mailinglisten, IRC und Wiki.
 
 # Nicht akzeptables Verhalten
 
-* Aufzeichnungen jeglicher Art sind in der K4CG nur mit Einwilligung
-  aller aufgezeichneten Personen gestattet.
+* Aufzeichnungen jeglicher Art ohne Einwilligung der aufgezeichneten Personen
 
 * Verletzende Bemerkungen in Bezug auf Geschlecht, Geschlechtsidentität,
   sexuelle Orientierung, Behinderungen, psychische Erkrankungen,
   äußere Erscheinung, Körperbau, Alter, Hautfarbe,
-  ethnische Zugehörigkeit oder Religion.
+  ethnische Zugehörigkeit oder Religion
 
 # Verhalten bei Verstößen
 
@@ -47,7 +44,7 @@ die physischen, aber auch Online-Präsenzen wie Mailinglisten, IRC und Wiki.
 
 # Hilfe finden
 
-Die K4CG hat eine Anlaufstelle, die alle gemeldeten Vorfälle ernst nimmt,
+Die K4CG hat eine Anlaufstelle die alle gemeldeten Vorfälle ernst nimmt,
 diese vertraulich behandelt und sich solidarisch mit Betroffenen verhält.
 Du kannst dich jederzeit an sie wenden. Die E-Mail Adresse ist coc@k4cg.org.
 
